@@ -1,0 +1,3 @@
+Renaissance
+
+Renaissance is a simple platform that allows users to create and track daily and weekly goals for long-term skill acquisition such as learning an instrument or a language, exercising, reading, or writing. Each goal is assigned a point value per 15 minute period performing the activity. Users attempt to accumulate a target number of points each week. Friends can monitor each others' progress.
